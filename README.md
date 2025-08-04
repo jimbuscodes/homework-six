@@ -1,2 +1,2 @@
 # homework-six
-n220 Debuggin Assignment
+n220 Debugging Assignment
